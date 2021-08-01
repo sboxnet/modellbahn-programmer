@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.9)
+file(GLOB srcfiles *.cpp)
+include_directories($ENV{BALAGI_SRC}/include)
+link_directories($ENV{BALAGI_SRC}/lib)
+add_executable(mcp ${srcfiles})
+target_link_libraries(mcp tmb++ usb-1.0 readline)

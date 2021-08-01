@@ -1,0 +1,5 @@
+file(GLOB srcfiles *.cpp)
+include_directories(../libtmb++)
+link_directories(../libtmb++/build)
+add_executable(mcp ${srcfiles})
+target_link_libraries(mcp tmb++)

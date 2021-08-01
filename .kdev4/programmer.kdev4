@@ -1,0 +1,77 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[CMake]
+Build Directory Count=3
+CMakeDir=/usr/share/cmake/Modules
+Current Build Directory Index=0
+Current Build Directory Index-Host System=2
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/balagi/src/mcp/programmer
+Build Type=
+CMake Binary=file:///usr/bin/cmake
+Install Directory=file:///usr/local
+Runtime=Host System
+
+[CMake][CMake Build Directory 1]
+Build Directory Path=/home/balagi/src/mcp/programmer/debug
+Build Type=Release
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=default
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
+
+[CMake][CMake Build Directory 2]
+Build Directory Path=/home/balagi/src/mcp/programmer/build
+Build Type=Release
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=Host System
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=mcp
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Debugger Shell=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x03\x00\x00\x00\x14\x00p\x00r\x00o\x00g\x00r\x00a\x00m\x00m\x00e\x00r\x00\x00\x00\x06\x00s\x00r\x00c\x00\x00\x00\x06\x00m\x00c\x00p)
+Dependency Action=Build
+Display Demangle Names=true
+Display Static Members=false
+EnvironmentGroup=
+Executable=file:///home/balagi/src/mcp/programmer/debug/src/mcp
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+GDB Path=
+Project Target=programmer,src,mcp
+Remote GDB Config Script=
+Remote GDB Run Script=
+Remote GDB Shell Script=
+Start With=ApplicationOutput
+Use External Terminal=false
+Working Directory=
+isExecutable=true
+
+[MakeBuilder]
+Default Make Environment Profile=
+Number Of Jobs=1
+
+[Project]
+VersionControlSupport=kdevsubversion

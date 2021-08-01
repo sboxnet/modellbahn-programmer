@@ -1,0 +1,5 @@
+/home/balagi/src/mcp/programmer/CMakeFiles/rebuild_cache.dir
+/home/balagi/src/mcp/programmer/CMakeFiles/edit_cache.dir
+/home/balagi/src/mcp/programmer/src/CMakeFiles/rebuild_cache.dir
+/home/balagi/src/mcp/programmer/src/CMakeFiles/mcp.dir
+/home/balagi/src/mcp/programmer/src/CMakeFiles/edit_cache.dir
