@@ -1,0 +1,1 @@
+avr --chipprops=/home/balagi/bin/avrchips.properties --prgdev=gpio-usb-xmega --chip=atxmega32a4 --cmd=readfuses

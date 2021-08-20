@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrChipDesc.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrChipDesc.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrChipDesc.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrElf.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrElf.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrElf.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioSerAvrProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioSerAvrProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioSerAvrProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioSerAvrRawProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioSerAvrRawProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioSerAvrRawProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioSerProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioSerProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioSerProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioUsbAvrProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioUsbAvrProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioUsbAvrProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioUsbAvrRawProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioUsbAvrRawProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioUsbAvrRawProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrGpioUsbXmegaProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrGpioUsbXmegaProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrGpioUsbXmegaProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrProg.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrProg.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrProg.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/AvrRawRS232ProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/AvrRawRS232ProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/AvrRawRS232ProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/IAvrProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/IAvrProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/IAvrProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/IAvrSerialProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/IAvrSerialProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/IAvrSerialProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/ISerialProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/ISerialProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/ISerialProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/ParPortProgDevice.cpp.o -c /home/balagi/src/mcp/programmer/src/ParPortProgDevice.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/ParPortProgDevice.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/PicProg.cpp.o -c /home/balagi/src/mcp/programmer/src/PicProg.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/PicProg.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/avr.cpp.o -c /home/balagi/src/mcp/programmer/src/avr.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/avr.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/main.cpp.o -c /home/balagi/src/mcp/programmer/src/main.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/main.cpp"
+},
+{
+  "directory": "/home/balagi/src/mcp/programmer/src",
+  "command": "/usr/bin/c++   -I/home/balagi/src/include    -O3 -DNDEBUG   -o CMakeFiles/mcp.dir/pic.cpp.o -c /home/balagi/src/mcp/programmer/src/pic.cpp",
+  "file": "/home/balagi/src/mcp/programmer/src/pic.cpp"
+}
+]
