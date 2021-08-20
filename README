@@ -1,10 +1,6 @@
 
-picprog README
-================
+<h1>AVR Programmer</h1>
+--------------
 
-Author:  Thomas Maier <balagi@justmail.de>
-         WWW  http://people.freenet.de/BalaGi
-
-Version: 0.1.0  May 2008
-
+To program AVR atxmega chips.
 
